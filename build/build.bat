@@ -9,8 +9,8 @@ set DEPOT_TOOLS_DIR=%CURRENT_DIR%..\depot_tools
 
 :: Execute the build using dynamic paths
 python automate-git.py^
- --url=https://github.com/citizenfx/cef.git^
- --checkout=cfx-m124^
+ --url=https://github.com/Ehbw/cef.git^
+ --checkout=cfx-m139^
  --download-dir=%DOWNLOAD_DIR%^
  --depot-tools-dir=%DEPOT_TOOLS_DIR%^
  --minimal-distrib-only^
