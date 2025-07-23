@@ -4,4 +4,4 @@
 [submodule "chromium_git/cef"]
 	path = chromium_git/cef
 	url = https://github.com/Ehbw/cef.git
-	branch = cfx-m140-ehbw
+	branch = cfx-m139
